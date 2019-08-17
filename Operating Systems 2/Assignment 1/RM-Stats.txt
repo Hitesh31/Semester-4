@@ -1,0 +1,3 @@
+No. of Processes entering the system : 100
+No. of Processes successfully completed : 29
+No. of Processes which missed their deadline : 71

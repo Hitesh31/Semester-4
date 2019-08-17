@@ -1,0 +1,5 @@
+Arithmetic puzzle: Given a list of integer numbers, 
+1.find a correct way of inserting arithmetic signs such that the result is a correct equation.
+ Example: With the list of  numbers [2,3,5,7,11] we can form the equations  2-3+5+7 = 11  or  2 = (3*5+7)/11 .
+
+ Equation(L,LT,RT) :- L is the list of numbers which are the leaves in the arithmetic terms LT and RT - from left to right. The arithmetic evaluation yields the same result for LT and RT.
